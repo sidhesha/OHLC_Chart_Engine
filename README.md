@@ -104,10 +104,9 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 
 ## Contact
+Sidhesha Kaurav - [sidheshak@gmail.com](mailto:sidheshak@gmail.com)
 
 Debashish Phukon - [debasish010@gmail.com](mailto:debasish010@gmail.com)
-
-Sidhesha Kaurav - [sidheshak@gmail.com](mailto:sidheshak@gmail.com)
 
 Sneh Shah - [ss17devil@gmail.com](mailto:ss17devil@gmail.com)
 
